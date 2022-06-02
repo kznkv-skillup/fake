@@ -30,6 +30,7 @@ export const Header = () => {
                         >
                             Fake Shop
                         </Typography>
+
                         <Menu />
                         <CartHeader />
                     </Toolbar>
